@@ -1,0 +1,2 @@
+https://ahmadluay-deploy.hf.space
+https://huggingface.co/spaces/ahmadluay/deploy
