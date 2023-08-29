@@ -27,5 +27,5 @@ The flow of this project, first EDA (Exploratory Data Analysis) to find out the 
 2. Based on Model Evaluation:
   - Based on the model evaluation, the best model is AdaBoost Classifier that has been improved with hyperparameter tuning using GridSearch. The model achieves high accuracy (87%) in correctly classifying whether the patient died during the follow-up period or not. For the "Dead" class (1.0), the recall is 0.69. This means the model identifies around 69% of the actual "Dead" cases. This suggests that the model is not as sensitive when it comes to correctly identifying cases that are truly positive for the "Dead" class. It misses a significant portion of actual "Dead" cases, which could indicate that the model has a higher rate of false negatives for the "Dead" class. 
 
-3. 
+3. Further Improvement
   - The model seems to perform well in correctly identifying cases of the "Not Dead" class, but it has room for improvement in correctly identifying cases of the "Dead" class. Depending on the application and the consequences of false negatives or positives, further analysis and potential adjustments to the model could be considered to enhance its overall performance
