@@ -1,7 +1,7 @@
 # Heart Failure Prediction
 This project aims to predict whether a heart failure patient will die during their follow-up period
 
-**Huggingface** : https://huggingface.co/spaces/ahmadluay/Customer_Churn_Prediction
+**Huggingface** : https://huggingface.co/spaces/ahmadluay/deploy
 
 # File Explanation on Github
 This repository consists of several files :
